@@ -1,9 +1,16 @@
-# kondoboard-cron
-
-This repo contains the extract, transform, load application for Kondoboard, a platform that allows Lambda School students to browse, save, and track job postings during the job hunt. 
-
 - Regarding documentation
 
+
+- Each of my pinned projects has a robust and clearly formatted README that includes a 
+- project description, 
+- its functionality, 
+- status, 
+- tech/framework used, 
+- any bugs, 
+- how to use it, and 
+- roadmap for future development. 
+
+Note: for Build Weeks and Labs projects, you should keep the README written by Lambda School.
 
 - There are 10 different sections you should consider adding to your documentation.
 - ➽ Why did you build this?
