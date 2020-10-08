@@ -1,68 +1,3 @@
-- Regarding documentation
-
-
-- Each of my pinned projects has a robust and clearly formatted README that includes a 
-- project description, 
-- its functionality, 
-- status, 
-- tech/framework used, 
-- any bugs, 
-- how to use it, and 
-- roadmap for future development. 
-
-Note: for Build Weeks and Labs projects, you should keep the README written by Lambda School.
-
-- There are 10 different sections you should consider adding to your documentation.
-- ➽ Why did you build this?
-- ➽ How do you use this?
-- ➽ What is this?
-- ➽ Documentation along with examples of what you’ve built or code snippets
-- ➽ What are the technologies used?
-- ➽ What are the prerequisites?
-- ➽ Getting started guide (Installation)
-- ➽ Roadmap (only utilized if your project will be used long term)
-- ➽ Demo & Current Build Status
-- ➽ Credits & License
-
-
-## Table of Contents
-- [Diagrams](#diagrams)
-- [Install](#install) 
-- [Usage](#usage)
-- [Testing](#testing)
-- [API](#api)
-- [License](#license)
-
-
-## Diagrams
-We created C4 diagrams to communicate the software architecture
-
-### Context
-![Context](./diagrams/kondo_context.svg)
-### Container
-![Container](./diagrams/kondo_container.svg)
-
-## Install  
-```
-pip install -r requirements.txt
-```
-## Usage  
-```
-uvicorn main:app --reload
-```  
-## Testing  
-```
-pytest
-```  
-## API
-
-[FastAPI - Swagger documentation](http://kondoboard-ds-environment.eba-u7c3zdzn.us-east-1.elasticbeanstalk.com/docs)  
- 
-## License
-![License](./LICENSE/)
-
-
-
 
 # any-nlp
 followed along with my first keras and nlp example
@@ -79,3 +14,24 @@ Good 1
 Bad 2
 
 
+## Table of Contents
+- [Description](#description)
+- [Functionality](#functionality) 
+- [Technology](#technology)
+- [License](#license)
+
+## Description 
+project description, - ➽ What is this? - ➽ Why did you build this?
+- ➽ How do you use this?
+
+
+## Functionality
+How does it work 
+
+
+## Technology
+- ➽ What are the technologies used? - tech/framework used, 
+
+
+## License
+![License](./LICENSE/)
