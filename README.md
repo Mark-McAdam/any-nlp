@@ -11,30 +11,29 @@ This provided me a nice framework to do machine learning problems in the future.
 - [License](#license)
 
 ## Description 
-T
-project description, - ➽ What is this? - ➽ Why did you build this?
-- ➽ How do you use this?
+We did a competitive Kaggle challenge and I used this notebook to put together and track my submissions. 
+
+This was hosted at DS12 Whiskey Multiclass Classification problem 
+
+(0, 1, 2) Rate the whiskey by using the description
+- Excellent 0
+- Good 1
+- Bad 2
 
 
 ## Functionality
-How does it work 
+In order to run the notebooks and follow along you will need to download the Glove Vectors 
 
 
 ## Technology
-- ➽ What are the technologies used? - tech/framework used, 
+What are the technologies used?
+
+- Natural Language Processing
+- 
 
 
 ## License
-![License](./LICENSE)
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/Mark-McAdam/any-nlp/blob/master/LICENSE)
-
-We did an in class Kaggle challenge and I used this notebook to put together some of my submissions. 
-
-DS12 Whiskey Multiclass Classification problem 
-0 1 2 rate the whiskey 
-Excellent 0
-Good 1
-Bad 2
 
 Special thanks to Kaggle User Abhishek for the inspiration on how to apply NLP to various problems
 https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle
