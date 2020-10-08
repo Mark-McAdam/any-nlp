@@ -25,7 +25,7 @@ How does it work
 
 
 ## License
-![License](./LICENSE/)
+![License](/LICENSE)
 
 We did an in class Kaggle challenge and I used this notebook to put together some of my submissions. 
 
