@@ -25,7 +25,8 @@ How does it work
 
 
 ## License
-![License](/LICENSE)
+![License](./LICENSE)
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/Mark-McAdam/any-nlp/blob/master/LICENSE)
 
 We did an in class Kaggle challenge and I used this notebook to put together some of my submissions. 
 
