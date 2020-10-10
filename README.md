@@ -54,3 +54,5 @@ What are the technologies used?
 
 Special thanks to Kaggle User Abhishek for the inspiration on how to apply NLP to various problems
 https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle
+
+more work to come soon
